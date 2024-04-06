@@ -90,9 +90,9 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 Let's connect and build something amazing together! Reach out to me via:
 
-- [![LinkedIn](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prosws2210/)](https://www.linkedin.com/in/prosws2210/)
-- [![Instagram](https://img.shields.io/badge/-prosws2210-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prosws2210)
-- [![Twitter](https://img.shields.io/twitter/follow/prosws2210?style=social)](https://twitter.com/prosws2210)
+- [![LinkedIn](https://img.shields.io/badge/-yourname-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prosws2210/)](https://www.linkedin.com/in/shakti-swaroop-sahu-a92574216/)
+- [![Instagram](https://img.shields.io/badge/-prosws2210-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/s.w.s_2210/)
+- [![Twitter](https://img.shields.io/twitter/follow/prosws2210?style=social)](https://twitter.com/Sws_2210)
 
 
 Looking forward to connecting with you! 😊
