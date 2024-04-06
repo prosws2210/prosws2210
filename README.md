@@ -48,16 +48,14 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosws2210&show_icons=true&theme=radical&hide_rank=false&count_private=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosws2210&layout=compact)](https://github.com/prosws2210)
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=prosws2210)
 [![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prosws2210&theme=dracula)](https://github.com/prosws2210)
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prosws2210)
-![Profile Views](https://komarev.com/ghpvc/?username=prosws2210)
 
 
 ## 🤝 Connect with Me
 
 Let's connect and build something amazing together! Reach out to me via:
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/shakti-swaroop-sahu-a92574216/))
+- [LinkedIn]([https://www.linkedin.com/in/shakti-swaroop-sahu-a92574216/])
 
 Looking forward to connecting with you! 😊
