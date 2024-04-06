@@ -46,7 +46,12 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 ## 📈 GitHub Stats
 
-![swspro2210's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swspro2210&show_icons=true&theme=radical&hide_rank=false&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosws2210&show_icons=true&theme=radical&hide_rank=false&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prosws2210&layout=compact)](https://github.com/prosws2210)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=prosws2210)
+[![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=prosws2210&theme=dracula)](https://github.com/prosws2210)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prosws2210)
+![Profile Views](https://komarev.com/ghpvc/?username=prosws2210)
 
 
 ## 🤝 Connect with Me
