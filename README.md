@@ -2,7 +2,10 @@
 
 I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning, currently pursuing my 2nd year at VIT Chennai. Exploring the endless possibilities of technology and its applications drives my curiosity.
 
+
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" style="margin-left: 10px;" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"> 
 
 - 🔭 I’m currently working on enhancing my skills in Web & App Development along with AI and Machine Learning through personal projects and coursework.
 - 🌱 I’m planing to learn about advanced data analytics, natural language processing, and deep learning techniques.
@@ -11,8 +14,10 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 - 📫 How to reach me: [sahu.shaktiswaroop22@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: In my free time, I enjoy playing musical instruments like the Tabla, immersing myself in the rhythms and melodies. Additionally, I find joy in brainstorming problem-solving questions, diving deep into the intricacies of various challenges.
-- 
+
 ## 🛠️ Tech Stack
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### Languages and Tools:
 - **Programming Languages:** Python, Java, C, C++
