@@ -46,7 +46,7 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 
 ## 📈 GitHub Stats
 
-![Shakti Swaroop Sahu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&hide_rank=false&count_private=true)
+![swspro2210's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&hide_rank=false&count_private=true)
 
 
 ## 🤝 Connect with Me
