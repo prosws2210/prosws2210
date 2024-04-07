@@ -70,8 +70,29 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 2. [Project 2 Name](link-to-project-2): Brief description or tagline.
 
 ### Hackathons and Competitions:
-- Participant, XYZ Hackathon 2023: Description of your contribution and outcome.
-- Runner-up, ABC Data Science Challenge: Summary of your approach and results.
+   1. CodeVIT Hackathon:
+      - Participated in an ML-based project addressing real-world problems.
+      - Acquired skills in Python programming and grasped the basics of Machine Learning.
+   
+   2. TechExpo App Development Challenge:
+      - Demonstrated proficiency in basic web app design.
+      - Implemented features such as real-time updates and user engagement strategies.
+
+   3. Bright India Hackathon :
+      - Scheduled for August 5 at Howard Johnson by Wyndham, focused on Election Management.
+      - Gained expertise in frontend development using React and explored Basic ML techniques such as sentimental analysis and blockchain.
+      - Future plan to delve into NLP-based chatbot development.
+
+   4. SIH National Hackathon:
+      - Developed a healthcare system utilizing React for frontend and Flask for backend.
+      - Enhanced skills in Intermediate ML, particularly in working with CSV files.
+      - Engineered a predictive model for disease identification based on symptoms.
+
+   5. Webdex Hackathon (ACM club of VIT-Chennai):
+      - Secured the 2ND POSITION in the competition.
+      - Employed React with Tailwind for frontend development and Flask with Supabase for backend operations.
+      - Demonstrated proficiency in Intermediate ML for disease prediction and ventured into deep learning for image classification.
+      - Designed a comprehensive NGO website with healthcare functionalities, including disease prediction from symptoms.
 
 ## 📝 Skills
 
