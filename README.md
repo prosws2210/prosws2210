@@ -63,40 +63,6 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📚 Projects
-
-### Recent Projects:
-1. [Web Development : Project 1 Name](link-to-project-1): Brief description or tagline.
-2. [Web Development : Project 2 Name](link-to-project-2): Brief description or tagline.
-3. [AI/ML : Project 3 Name](link-to-project-2): Brief description or tagline.
-4. [AI/ML : Project 4 Name](link-to-project-2): Brief description or tagline.
-5. [App Development : Project 5 Name](link-to-project-2): Brief description or tagline.
-6. [App Development : Project 6 Name](link-to-project-2): Brief description or tagline.
-
-### Hackathons and Competitions:
-   1. CodeVIT Hackathon:
-      - Participated in an ML-based project addressing real-world problems.
-      - Acquired skills in Python programming and grasped the basics of Machine Learning.
-   
-   2. TechExpo App Development Challenge:
-      - Demonstrated proficiency in basic web app design.
-      - Implemented features such as real-time updates and user engagement strategies.
-
-   3. Bright India Hackathon :
-      - Scheduled for August 5 at Howard Johnson by Wyndham, focused on Election Management.
-      - Gained expertise in frontend development using React and explored Basic ML techniques such as sentimental analysis and blockchain.
-      - Future plan to delve into NLP-based chatbot development.
-
-   4. SIH National Hackathon:
-      - Developed a healthcare system utilizing React for frontend and Flask for backend.
-      - Enhanced skills in Intermediate ML, particularly in working with CSV files.
-      - Engineered a predictive model for disease identification based on symptoms.
-
-   5. Webdex Hackathon (ACM club of VIT-Chennai):
-      - Secured the 2ND POSITION in the competition.
-      - Employed React with Tailwind for frontend development and Flask with Supabase for backend operations.
-      - Demonstrated proficiency in Intermediate ML for disease prediction and ventured into deep learning for image classification.
-      - Designed a comprehensive NGO website with healthcare functionalities, including disease prediction from symptoms.
 
 ## 📝 Skills
 
