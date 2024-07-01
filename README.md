@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shakti Swaroop Sahu!
 
-I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning, currently pursuing my 2nd year at VIT Chennai. Exploring the endless possibilities of technology and its applications drives my curiosity.
+I'm a passionate Computer Science student specializing in Artificial Intelligence and Machine Learning, currently pursuing my 3rd year at VIT Chennai. Exploring the endless possibilities of technology and its applications drives my curiosity.
 
 
 ## 🚀 About Me
@@ -66,8 +66,12 @@ I'm a passionate Computer Science student specializing in Artificial Intelligenc
 ## 📚 Projects
 
 ### Recent Projects:
-1. [Project 1 Name](link-to-project-1): Brief description or tagline.
-2. [Project 2 Name](link-to-project-2): Brief description or tagline.
+1. [Web Development : Project 1 Name](link-to-project-1): Brief description or tagline.
+2. [Web Development : Project 2 Name](link-to-project-2): Brief description or tagline.
+3. [AI/ML : Project 3 Name](link-to-project-2): Brief description or tagline.
+4. [AI/ML : Project 4 Name](link-to-project-2): Brief description or tagline.
+5. [App Development : Project 5 Name](link-to-project-2): Brief description or tagline.
+6. [App Development : Project 6 Name](link-to-project-2): Brief description or tagline.
 
 ### Hackathons and Competitions:
    1. CodeVIT Hackathon:
